@@ -41,4 +41,4 @@ It detects when a player has won or if the game ends in a draw. <br>
 Players can reset the game or start a new game at any time using the provided buttons. <br>
 
 ## Contribution
-Contributions are welcomed! If you have any suggestions for improvements or new features, then feel free to submit a pull request.
+Contributions are welcome! If you have any suggestions for improvements then feel free to submit a pull request.
