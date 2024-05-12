@@ -42,3 +42,5 @@ Players can reset the game or start a new game at any time using the provided bu
 
 ## Contribution
 Contributions are welcome! If you have any suggestions for improvements then feel free to submit a pull request.
+
+![Output](1. Tic-Tac-Toe.png)
