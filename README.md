@@ -45,3 +45,8 @@ Contributions are welcome! If you have any suggestions for improvements then fee
 
 ### Output
 <img src="1. Tic-Tac-Toe.png" alt="Output">
+<br>
+<img src="2. Tic-Tac-Toe.png" alt="Output">
+<br>
+<img src="3. Tic-Tac-Toe.png" alt="Output">
+
