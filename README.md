@@ -7,16 +7,16 @@ CSS: Styles the elements and adds visual effects. <br>
 JavaScript: Implements the game logic and interactivity. <br>
 
 ## Code Explanation
-## HTML Structure:
+### HTML Structure:
 The HTML provides the basic structure of the Tic-Tac-Toe game.<br>
 It includes a container (div of class game) with nine buttons representing the game board. <br>
 There's also a message container (<div of class msg-container hide) initially hidden, which will display the winner message and a "New Game" button when necessary. <br>
 Two additional buttons outside the game container are provided for resetting the game and starting a new game. <br>
-## CSS Styling:
+### CSS Styling:
 CSS styles are applied to elements to define their appearance and layout. <br>
 Styles define the background color, font, size, and other visual aspects of the game elements. <br>
 Selectors like .box, .msg-container, .hide, .game, and button IDs (#reset-btn, #new-btn) are used to target specific elements and apply styling rules. <br>
-## JavaScript Logic:
+### JavaScript Logic:
 ### Initialization:
 Event listeners are assigned to each box/button to handle click events. <br>
 Variables are initialized to keep track of the game state, such as turnO to determine whose turn it is. <br>
