@@ -17,11 +17,11 @@ CSS styles are applied to elements to define their appearance and layout. <br>
 Styles define the background color, font, size, and other visual aspects of the game elements. <br>
 Selectors like .box, .msg-container, .hide, .game, and button IDs (#reset-btn, #new-btn) are used to target specific elements and apply styling rules. <br>
 ### JavaScript Logic:
-### Initialization:
+### Initialization :
 Event listeners are assigned to each box/button to handle click events. <br>
 Variables are initialized to keep track of the game state, such as turnO to determine whose turn it is. <br>
 An array winPatterns is defined to represent the winning combinations on the game board. <br>
-### Click Event Handling:
+### Click Event Handling :
 When a box/button is clicked, an event listener triggers a function. <br>
 Depending on whose turn it is (turnO), the clicked box displays either an "X" or "O". <br>
 The turnO variable is toggled to switch between players after each move. <br>
