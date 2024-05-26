@@ -38,7 +38,6 @@ The game board is cleared, all boxes/buttons are enabled, and the message contai
 The code provides the functionality for a basic Tic-Tac-Toe game where players can take turns placing their symbols ("X" or "O") on a 3x3 grid. <br>
 It detects when a player has won or if the game ends in a draw. <br>
 Players can reset the game or start a new game at any time using the provided buttons. <br>
-
 ## Contribution
 Contributions are welcome! If you have any suggestions for improvements then feel free to submit a pull request.
 
