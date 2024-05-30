@@ -15,7 +15,7 @@ Two additional buttons outside the game container are provided for resetting the
 CSS styles are applied to elements to define their appearance and layout. <br>
 Styles define the background color, font, size, and other visual aspects of the game elements. <br>
 Selectors like .box, .msg-container, .hide, .game, and button IDs (#reset-btn, #new-btn) are used to target specific elements and apply styling rules. <br>
-### JavaScript Logic:
+## JavaScript Logic
 ### Initialization :
 Event listeners are assigned to each box/button to handle click events. <br>
 Variables are initialized to keep track of the game state, such as turnO to determine whose turn it is. <br>
