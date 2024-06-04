@@ -7,6 +7,7 @@ CSS: Styles the elements and adds visual effects. <br>
 JavaScript: Implements the game logic and interactivity. <br>
 
 ## Code Explanation
+
 ### HTML Structure:
 The HTML provides the basic structure of the Tic-Tac-Toe game.<br>
 It includes a container (div of class game) with nine buttons representing the game board. <br>
