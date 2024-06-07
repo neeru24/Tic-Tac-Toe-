@@ -3,7 +3,9 @@ This is a simple web-based Tic-Tac-Toe game implemented using HTML, CSS, and Jav
 
 ## Technologies Used 
 HTML: Provides the structure of the web page. <br>
+
 CSS: Styles the elements and adds visual effects. <br>
+
 JavaScript: Implements the game logic and interactivity. <br>
 
 ## Code Explanation
