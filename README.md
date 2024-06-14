@@ -8,6 +8,7 @@ CSS: Styles the elements and adds visual effects. <br>
 
 JavaScript: Implements the game logic and interactivity. <br>
 
+
 ## Code Explanation
 
 ### HTML Structure:
